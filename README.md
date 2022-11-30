@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-Test
+![Actions](hhttps://github.com/garryfisher/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)
