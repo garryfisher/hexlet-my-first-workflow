@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-[![hello-world](https://github.com/garryfisher/hexlet-my-first-workflow/workflows/hello-world.yml/badge.svg)]https://github.com/garryfisher/hexlet-my-first-workflow/actions/)
+[![hello-world](https://github.com/garryfisher/hexlet-my-first-workflow/workflows/hello-world.yml/badge.svg)]https://github.com/garryfisher/hexlet-my-first-workflow/actions)
